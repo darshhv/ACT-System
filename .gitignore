@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+.env
+node_modules/
+.DS_Store
+*.log
+edge/data/
+postgres/data/
